@@ -30,7 +30,7 @@ authorizedNameCenter: { page: 0, x: 366, y: 70, size: 8, maxWidth: 260, align: '
     contactName2: { page: 0, x: 165, y: 405, size: 8, maxWidth: 140 },
     contactPhone2: { page: 0, x: 310, y: 405, size: 8, maxWidth: 110 },
     contactEmail2: { page: 0, x: 390, y: 405, size: 8, maxWidth: 120 },
-    loanType: { page: 0, x: 200, y: 358, size: 8, maxWidth: 250 },
+    loanType: { page: 0, x: 200, y: 356, size: 8, maxWidth: 250 },
 
     itemQty1: { page: 0, x: 96, y: 305, size: 8, maxWidth: 40 },
     itemCondition1: { page: 0, x: 138, y: 305, size: 8, maxWidth: 45 },
